@@ -1,0 +1,2 @@
+class Ddate < ApplicationRecord
+end
